@@ -1,0 +1,6 @@
+/home/kienhoang/Delete/cmakeLearning/build/CMakeFiles/fileRun.dir
+/home/kienhoang/Delete/cmakeLearning/build/CMakeFiles/edit_cache.dir
+/home/kienhoang/Delete/cmakeLearning/build/CMakeFiles/rebuild_cache.dir
+/home/kienhoang/Delete/cmakeLearning/build/lib/lib64/CMakeFiles/MyLib64Library.dir
+/home/kienhoang/Delete/cmakeLearning/build/lib/lib64/CMakeFiles/edit_cache.dir
+/home/kienhoang/Delete/cmakeLearning/build/lib/lib64/CMakeFiles/rebuild_cache.dir
