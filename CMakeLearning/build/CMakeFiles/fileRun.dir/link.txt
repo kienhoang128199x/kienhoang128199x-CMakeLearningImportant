@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/fileRun.dir/main.cpp.o -o fileRun  lib/lib64/libMyLib64Library.a 
